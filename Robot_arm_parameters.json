@@ -1,4 +1,5 @@
-{"default":{"IRB1":{"Analog-read":81.8},"IRB2":{"Analog-read":169},"IRB3":{"Analog-read":167.7},"IRB4":{"Analog-read":77.9},"IRB5":{"Analog-read":0},"IRB6":{"Analog-read":74.5}}
+{"standby":{"IRB1":{"Analog-read":81.8},"IRB2":{"Analog-read":91},"IRB3":{"Analog-read":91},"IRB4":{"Analog-read":77.9},"IRB5":{"Analog-read":0},"IRB6":{"Analog-read":74.5}},
+"default":{"IRB1":{"Analog-read":81.8},"IRB2":{"Analog-read":169},"IRB3":{"Analog-read":167.7},"IRB4":{"Analog-read":77.9},"IRB5":{"Analog-read":0},"IRB6":{"Analog-read":74.5}}
 ,"poon1":{"IRB1":{"Analog-read":167.8},"IRB2":{"Analog-read":75.2},"IRB3":{"Analog-read":63.4},"IRB4":{"Analog-read":78.8},"IRB5":{"Analog-read":9.8},"IRB6":{"Analog-read":162}}
 ,"poon2":{"IRB1":{"Analog-read":167.8},"IRB2":{"Analog-read":111.4},"IRB3":{"Analog-read":99.7},"IRB4":{"Analog-read":77.9},"IRB5":{"Analog-read":7.4},"IRB6":{"Analog-read":74.8}}
 ,"poon3":{"IRB1":{"Analog-read":180},"IRB2":{"Analog-read":116},"IRB3":{"Analog-read":106},"IRB4":{"Analog-read":77},"IRB5":{"Analog-read":1},"IRB6":{"Analog-read":175}}
