@@ -1,0 +1,11 @@
+[Unit]
+Description=Digital_twin_UTAC_demo
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/env uvicorn app:app --host 0.0.0.0 --port 8000
+WorkingDirectory=/var/www/Local_digital_twin_performance
+Restart=always
+RestartSec=3
+[Install]
+WantedBy=default.target
